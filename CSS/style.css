@@ -1,0 +1,16 @@
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(225, 225, 225);
+    color: rgb(255, 255, 255);
+}
+
+nav {
+    display:flex;
+    justify-content: space-between;
+    /* justify-content: inhalt ausrichten, Abstand gleich */
+}
+
+footer {
+    background-color: blue;
+}
+
